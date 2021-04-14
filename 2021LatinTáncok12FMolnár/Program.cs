@@ -10,6 +10,7 @@ namespace _2021LatinTáncok12FMolnár
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
